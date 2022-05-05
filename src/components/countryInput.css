@@ -1,0 +1,33 @@
+.container {
+  margin: 30px;
+  background-color: #10002b;
+  padding: 2em;
+  border-radius: 10px;
+}
+
+div {
+  width: 500px;
+  margin: 0 auto;
+}
+
+form input[type="text"] {
+  width: 300px;
+  margin: 0 auto;
+  margin-bottom: 100px;
+}
+
+#country-submit:enabled {
+  border: 1px solid #5a189a;
+  background-color: #5a189a;
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+  padding: 4px 10px;
+}
+
+#country-submit:disabled {
+  border: 1px solid #b4b4b4;
+  color: #222222;
+  background-color: #b4b4b4;
+  border-radius: 5px;
+  padding: 4px 10px;
+}

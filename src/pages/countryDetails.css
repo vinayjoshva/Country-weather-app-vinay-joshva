@@ -1,0 +1,32 @@
+div .custom-container {
+  margin: 30px;
+  background-color: #240046;
+}
+
+table {
+  border-radius: 10px;;
+}
+
+table thead {
+  background-color: #240046;
+  color:aliceblue;
+  text-align: center;
+}
+
+table tbody {
+  background-color: #e0aaff;
+  text-align: center;
+}
+
+
+.capital-container {
+  display: flex;
+  align-items: center;
+  background-color: #240046;
+  color: aliceblue;
+  padding: 12px;
+}
+
+.capital-container label {
+  font-size: 1em;
+}
